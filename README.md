@@ -1,1 +1,1 @@
-# Intro-to-Machine-Learning-DSCJKUAT
+# Machine-Learning-DSCJKUAT PROJECT SESSIONS
