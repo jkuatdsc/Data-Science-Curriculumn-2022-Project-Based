@@ -1,18 +1,31 @@
 # Machine-Learning-DSCJKUAT PROJECT SESSIONS
- Python Basic
+
+### Python Basic
 
 Numbers, operators, comments, and Data Types (Int, Float, Bool etc.).
+
 Conditional Logic. {IF, ELIF, AND, OR, ==, etc.}.
+
 Loops. {For and While}.
+
 List, List comprehensions.
+
 Dictionaries, Tuples, and Sets.
+
 Functions and Lambda Functions.
+
 HTTP requests.
+
 Object Oriented Programming.
+
 Iterators, Generators and Decorators.
+
 File IO, Working with CSV.
+
 Regular Expressions.
+
 Libraries { Pandas, Numpy, Matplotlib, Scikit, Statsmodels}
+
 #### SQL Basics.
 Select.
  Joins {Right Join, Left Join}.
