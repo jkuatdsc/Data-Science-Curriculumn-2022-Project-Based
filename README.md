@@ -27,24 +27,38 @@ Regular Expressions.
 Libraries { Pandas, Numpy, Matplotlib, Scikit, Statsmodels}
 
 #### SQL Basics.
+
 Select.
- Joins {Right Join, Left Join}.
- Group by, Having, Order by etc.
- Statistics Basics.
+
+Joins {Right Join, Left Join}.
+
+Group by, Having, Order by etc.
+ 
+### Statistics Basics.
 
 Types of data {Numerical, Categorical, Ordinal etc.}.
+
 Measures of Central Tendency.
+
 Variance and Standard Deviation.
+
 Probability Density Functions.
+
 Probability Mass Functions.
+
 Probability Distribution Functions {Bernoulli distribution, Normal Distribution, Poisson’s
 Distribution etc.}.
-Data Mining and Analytics Tools.
+
+### Data Mining and Analytics Tools.
 
 Powerbi.
+
 Tableau.
+
 Excel {VLook up, DAX}.
+
 WEKA.
+
 ## Machine Learning.
 
 Regression {Linear Regression, Multinomial Regression, Polynomial Regression}.
