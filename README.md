@@ -62,31 +62,56 @@ WEKA.
 ## Machine Learning.
 
 Regression {Linear Regression, Multinomial Regression, Polynomial Regression}.
+
 Classification {Logistic Regression, Support Vector Machine}.
+
 Clustering {K-Means, K-NN}.
+
 Association.
+
 Dimensionality Reduction {Principal Component Analysis, Linear Discriminant Analysis,
 Decision Trees}.
+
 Bagging and Boosting {XGBoost, AdaBoost}.
+
 Ensemble Learning.
+
 Model Evaluation Metrics {MAPE, RMSE, MSE, confusion Matrix etc.}.
+
 Reinforcement Learning.
+
 Model Deployment {Docker, Joblib, Pickle, Kubernetes}.
+
 Machine Learning Project.
- Big Data.
+
+### Big Data.
+
  Hadoop.
+ 
  Apache Ambari.
+ 
  Apache Spark.D.S.C Data Science Track Curriculum.
+ 
  Cloud Computing
-Amazon Web Services
+ 
+ Amazon Web Services
+
  Google Cloud Platform
+ 
  Microsoft Azure
- Deep Learning.
+ 
+### Deep Learning.
 
 Artificial Neural Networks.
+
 Convolutional Neural Networks.
+
 Recurrent Neural Networks.
+
 Generative Adversarial Networks.
+
 Transfer Learning.
+
 Tensor flow.
+
 Keras.
